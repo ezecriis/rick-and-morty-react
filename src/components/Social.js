@@ -20,13 +20,13 @@ function Social() {
     return (
         <SocialStyled>
             <div className="social">
-                <a href="https://instagram.com/LeonidasEsteban">
+                <a href="https://www.instagram.com/ezecriis/">
                     <img src="./images/instagram.svg" alt="" />
                 </a>
-                <a href="https://facebook.com/LeonidasEsteban">
+                <a href="https://www.facebook.com/EzeCriis/">
                     <img src="./images/facebook.svg" alt="" />
                 </a>
-                <a href="https://twitter.com/LeonidasEsteban">
+                <a href="https://twitter.com/EzeCriis">
                     <img src="./images/twitter.svg" alt="" />
                 </a>
             </div>
